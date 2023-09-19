@@ -4,5 +4,10 @@
     "@commitlint/config-conventional": "^17.6.7",
     "husky": "^8.0.3"
   },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }  
+  },
   "repository": "https://github.com/ccyyasuka/learn_git.git"
 }

@@ -3,3 +3,4 @@
 master
 master2
 test
+husky
