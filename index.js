@@ -1,3 +1,3 @@
 console.log("aaa");
 console.log("bbb");
-console.log("ccchuskyyy");
+console.log("ccchussskyyy");
