@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@commitlint/cli": "^17.6.7",
+    "@commitlint/config-conventional": "^17.6.7",
+    "husky": "^8.0.3"
+  },
+  "repository": "https://github.com/ccyyasuka/learn_git.git"
+}
